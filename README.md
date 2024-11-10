@@ -2,7 +2,7 @@
 THIS IS MY FIRST GIT REPO
 <HTML>
   <HEAD>
-    <TITLE> MY WEB PAGE</TITLE>
+    
     
   </HEAD>
   <H1> <CENTER> MY WEBPAGE </CENTER></H1>
