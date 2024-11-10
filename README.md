@@ -8,5 +8,6 @@ THIS IS MY FIRST GIT REPO
   <H1> <CENTER> MY WEBPAGE </CENTER></H1>
 <BR>
 <P> HELLO EVERYONE THIS IS SUNIL</P>
+<h2> heading 2</h2>
 <a href "www.google.com">GOOGLE GO </a>
 </HTML>
